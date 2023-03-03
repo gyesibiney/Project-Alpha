@@ -12,7 +12,7 @@ What product is product retail price more than twice the wholesale price?
 How much did the store make from food vs. computers vs. books?
 Because your store is doing so well, you’re able to negotiate a 30% discount on the wholesale price of goods. Calculate the new net revenue.
 
-Setup
+## SETUP
 Install the required packages to be able to run the evaluation locally.
 
 You need to have Python 3 on your system (a Python version lower than 3.10). Then you can clone this repo and being at the repo's root :: repository_name> ... follow the steps below:
@@ -35,7 +35,7 @@ Linux & MacOs:
 
 4.Install the required libraries/packages listed in the requirements.txt file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 
-Evaluation
+## EVALUATION
 This evaluation will be automatically grade, so please follow the instructions carefully.
 
 You can run this command bellow being at the root of the repository to be sure your solutions are the good ones before to push your solutions.
